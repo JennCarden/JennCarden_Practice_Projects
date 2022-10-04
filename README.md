@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JennCarden
-- 👀 I’m interested in ... Data Science 
-- 🌱 I’m currently learning ... Machine Learning
-- 💞️ I’m looking to collaborate on ... projects on data analysis, data visualization and data mining 
+- 👀 I’m interested in ... Data Science/ Data Analytics 
+- 🌱 I’m currently learning ... Python, SQL, R.
+- 💞️ I’m looking to collaborate on ... projects on data analysis, data visualization and data mining to learn more advanced code in different languages and maintain my learned skillset. 
 - 📫 How to reach me ... email <- jenn.carden1991@gmail.com
 
 <!---
